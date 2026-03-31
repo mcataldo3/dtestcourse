@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Syllabus Color and Design</title>
+
+  <introduction>
+    <p>
+    </p>
+  </introduction>
+  <!-- Include chapters -->
+  <subsection xml:id="sec-course-info">
+    <title>Course Information</title>
+
+    <p>
+      This is the syllabus for <term>ART 101</term> for Fall 2026.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Instructor</title>
+
+          <p>
+            Melanie Cataldo 
+            Email for meeting times outside of class, <url href="mailto:mcataldo3@framingham.edu">mcataldo3@framingham.edu</url>.
+          </p>
+        </li>
+
+
+        <li>
+          <title>Class meets</title>
+
+          <p>
+            Monday/Wednesday in May Hall 407
+          </p>
+        </li>
+
+        <li>
+          <title>Course Description</title>
+
+          <p>
+            An examination of the language of visual communication, focusing on the principles of design.
+            Students explore line, shape, form, value, texture, color, and space in relation to various
+            compositional strategies. Lecture and discussion sessions introduce historical and contemporary
+            theories of two-dimensional design.  
+          </p>
+       
+        </li>
+      </dl>
+    </p>
+
+  <!-- Use paragraphs to break apart subsections -->
+    <paragraphs>
+      <title>Grading</title>
+
+      <p>
+        You will be graded based on your effort and progress over the time of the course. You will
+        receive a grade for each project and assignment. Any project can be reworked and turned in
+       later in the semester for an improved grade.
+       • 35%: participation - attendance, class discussion, working during class time, initiative,
+       communication with professor and peers
+       • 35%: process - depth of exploration, concepts, experimentation
+       • 30%: presentation - quality of final projects and assignments
+      </p>
+    </paragraphs>
+  </subsection>
+
+  <!-- Other subsections for larger dividers -->
+  <subsection xml:id="sec-assessments">
+    <title>Class Structure</title>
+
+    <p>
+      1. a visual introduction to relevant works
+      2. project introduction and warm-up activity
+      3. work on project
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-Project topics">
+    <title>Project topics</title>
+    <p>
+      Assignment Topics
+    • Drawing what you see
+    • Shape and color
+    • Visual Movement
+    • Contrast and Balance
+    • Creating Depth
+    • Storytelling images
+    </p>
+    
+  </subsection>
+</section>
