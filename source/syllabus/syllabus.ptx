@@ -49,7 +49,17 @@
 
   <!-- Use paragraphs to break apart subsections -->
     <paragraphs>
-      <title>Grading</title>
+      <title>NACE Core Competencies</title>
+
+      <p>
+      <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/#competencies">The 8 NACE Core Competencies</url>
+      </p>
+    </paragraphs>
+  </subsection>
+
+  <!-- Other subsections for larger dividers -->
+   <subsection xml:id="sec-assessments">
+    <title>Grading</title>
 
       <p>
         You will be graded based on your effort and progress over the time of the course. You will
@@ -60,10 +70,7 @@
        • 35%: process - depth of exploration, concepts, experimentation
        • 30%: presentation - quality of final projects and assignments
       </p>
-    </paragraphs>
-  </subsection>
-
-  <!-- Other subsections for larger dividers -->
+    </subsection>
   <subsection xml:id="sec-assessments">
     <title>Class Structure</title>
 
@@ -85,13 +92,4 @@
      Storytelling images
     </p>
     
-  </subsection>
-
-   <subsection xml:id="core comps">
-    <title>Core Competencies</title>
-    <p>
-    <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/#competencies">NACE Core Competencies</url>
-    </p>
-    
-  </subsection>
 </section>
