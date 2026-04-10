@@ -11,10 +11,9 @@
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>ARTS 222001</term> Fall 2026.
+      <term>ARTS 222001</term> Fall 2026.
       <!-- use a description list (dl) for short items -->
     </p>
-
       <dl>
         <li>
           <title>Instructor</title>
@@ -40,7 +39,7 @@
           </p>
         </li>
 
-         <li>
+        <li>
           <title>Always bring to Class</title>
           <p>
             Materials pack &amp; Self
@@ -55,8 +54,8 @@
             compositional strategies. Lecture and discussion sessions introduce historical and contemporary
             theories of two-dimensional design.  
           </p>
-       
         </li>
+
       </dl>
 
     <!-- Use paragraphs to break apart subsections -->
@@ -66,15 +65,21 @@
       <p>
         Ask employers what they want from new graduates, and communication tops the list. The NACE competencies spotlight the tools current students need to find work in an ever changing job market.
         Color and Design asks students to consistently practice the following competencies: 
-        • Communication - Understand the importance of and demonstrate verbal, written, and non-verbal/body language, abilities.
-Employ active listening, persuasion, and influencing skills
+      </p>
+        <p>
+          • Communication - Understand the importance of and demonstrate verbal, written, and non-verbal/body language, abilities.
+          Employ active listening, persuasion, and influencing skills
+        </p>
+         <p>
         • self development- Show an awareness of own strengths and areas for development.
 Identify areas for continual growth while pursuing and applying feedback. 
+         </p>
+         <p>
         • critical thinking - Multi-task well in a fast-paced environment
-        • professionalism - Maintain a positive personal brand in alignment with organization and personal career values.
-        Be present and prepared.
-Demonstrate dependability (e.g., report consistently for work or meetings).
-Prioritize and complete tasks to accomplish organizational goals
+         </p>
+        <p>
+         • professionalism - Maintain a positive personal brand in alignment with organization and personal career values.
+        Be present and prepared.Demonstrate dependability (e.g., report consistently for work or meetings). Prioritize and complete tasks to accomplish organizational goals
       </p>
       <p>
         <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/#competencies">The 8 NACE Core Competencies</url>
@@ -96,7 +101,8 @@ Prioritize and complete tasks to accomplish organizational goals
        • 30%: presentation - quality of final projects and assignments
       </p>
     </subsection>
-   <subsection xml:id="sec-structure">
+     
+  <subsection xml:id="sec-structure">
     <title>Class Structure</title>
 
     <p>
@@ -122,7 +128,7 @@ Prioritize and complete tasks to accomplish organizational goals
     </p>
   </subsection>
     
-    <subsection xml:id="sec-attend">
+  <subsection xml:id="sec-attend">
     <title>Attendance</title>
     <p>
     Please attend class. This is a studio class. Class begins promptly at 8:30 AM. Arriving late or 
