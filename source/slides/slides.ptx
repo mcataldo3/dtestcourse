@@ -19,10 +19,10 @@
       <title>Section 1.1</title>
 
       <slide>
-        <title>[topic]</title>
-
-
-      </slide>
+        <title>value</title>
+<image source="bw.jpg" width="25%">
+</image>
+ </slide>
     </section>
 
     <section xml:id="sec-1-2">

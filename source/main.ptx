@@ -21,7 +21,7 @@
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
-    <chapter xml:id="activities">
+    <chapter xml:id="slides">
       <title>Project Examples</title>
 
       <introduction>
@@ -31,7 +31,7 @@
       </introduction>
 
       <!-- Remove the example and replace with your own activities -->
-      <xi:include href="./activities/01-intro-activity.ptx"/>
+      <xi:include href="./slides/slides.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
