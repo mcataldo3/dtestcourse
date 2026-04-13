@@ -3,11 +3,11 @@
 <!-- you must go to `project.ptx` and uncomment the slides targets (starting on line 12)   -->
 
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
-  <Include the docinfo common to the course, in the parent folder ()>
-  <xi:include href="../docinfo.ptx"/>
+  <Include the docinfo common to the course, in the parent folder (source)>
+  <xi:include href="./source/docinfo.ptx"/>
 
   <slideshow xml:id="slides">
-    <title>Slides for MATH xxx</title>
+    <title>Examples</title>
 
     <frontmatter>
       <titlepage-items/>
@@ -16,13 +16,13 @@
     <!-- This assumes you want to structure your entire slide deck by sections -->
     <!-- RevealJS will use 2-d navigation: move left-right to switch between sections, up-down to switch between slides in a section -->
     <section xml:id="sec-1-1">
-      <title>Section 1.1</title>
+      <title>Value</title>
 
       <slide>
-        <title>value</title>
-<image source="bw.jpg" width="25%">
-</image>
- </slide>
+        <title>Pen and Ink</title>
+       <image source="bw.jpg" width="50%"/>
+
+      </slide>
     </section>
 
     <section xml:id="sec-1-2">
