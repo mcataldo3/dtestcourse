@@ -10,9 +10,10 @@
       Creating value, balancing positive and negative space
     </p>
   </introduction>
+
  <figure xml:id="fig-positive-negative-space">
+  <caption>ink</caption>
   <image source="bw.jpg" width="50%"/>
 </figure>
-   <p>A visual representation of positive and negative space using black and white texture value changes</p>
-  
+
 </worksheet>
