@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<section xml:id="activity-01-intro-activity">
-<subsection>  
+<worksheet xml:id="activity-01-intro-activity">  
 <title>Positive and Negative Space</title>
 
   <!-- Optional introduction -->
@@ -11,11 +10,9 @@
       Creating value, balancing positive and negative space
     </p>
   </introduction>
-
-  <!-- Exercises start here. -->
-  <image source="bw.jpg" width="25%">
-  </image>
+ <figure xml:id="fig-positive-negative-space">
+  <image source="bw.jpg" width="50%"/>
+</figure>
    <p>A visual representation of positive and negative space using black and white texture value changes</p>
   
-</subsection>
-</section>
+</worksheet>
