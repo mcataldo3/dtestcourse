@@ -2,7 +2,7 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="activity-01-intro-activity">
-  <title>Projects Color &amp; Design</title>
+  <title>Positive and Negative Space</title>
 
   <!-- Optional introduction -->
   <introduction>
@@ -12,12 +12,8 @@
   </introduction>
 
   <!-- Exercises start here. -->
-  <exercise workspace="2in">
-    <statement>
-      <p>
-        This is the first exercise.
-      </p>
-    </statement>
-  </exercise>
+  <image source="img_7609.jpg">
+   <p>A visual representation of positive and negative space using black and white texture value changes</p>
+  </image>
 
 </worksheet>
