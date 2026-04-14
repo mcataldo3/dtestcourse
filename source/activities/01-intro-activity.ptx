@@ -13,7 +13,7 @@
 
  <figure xml:id="figbw">
   <caption>ink</caption>
-  <image source="bw.jpg" width="25%">
+  <image source="./bw.jpg" width="25%">
   </image>
 </figure>
 
