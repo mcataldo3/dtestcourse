@@ -11,9 +11,10 @@
     </p>
   </introduction>
 
- <figure xml:id="fig-positive-negative-space">
+ <figure xml:id="figbw">
   <caption>ink</caption>
-  <image source="./bw.jpg" width="25%"/>
+  <image source="external/bw2.jpg" width="25%">
+  </image>
 </figure>
 
 </worksheet>

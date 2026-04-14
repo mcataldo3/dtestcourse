@@ -128,13 +128,13 @@
         remark="no"
         objectives="no"
         outcomes="no"
-        figure="no"
+        figure="yes"
         table="no"
         listing="no"
         list="no"
         exercise-inline="yes"
         exercise-divisional="no"
-        exercise-worksheet="no"
+        exercise-worksheet="yes"
         exercise-readingquestion="no"
       />-->
 
