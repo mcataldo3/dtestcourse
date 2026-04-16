@@ -12,32 +12,32 @@
   </introduction>
 
   <figure xml:id="figimaginedlands">
-  <caption>ink</caption>
-  <image source="imaginelands.jpg" width="35%">
+  <caption></caption>
+  <image source="imaginelands.jpg" width="55%">
   </image>
   </figure>
 
   <figure xml:id="figimaginedland2">
-  <caption>ink</caption>
-  <image source="imagineland2.jpg" width="35%">
+  <caption></caption>
+  <image source="imagineland2.jpg" width="55%">
   </image>
   </figure>
 
   <figure xml:id="figimaginedland3">
-  <caption>ink</caption>
-  <image source="imagineland3.jpg" width="35%">
+  <caption></caption>
+  <image source="imagineland3.jpg" width="55%">
   </image>
   </figure>
 
   <figure xml:id="figimaginedland4">
-  <caption>ink</caption>
+  <caption></caption>
   <image source="imagineland4.jpg" width="55%">
   </image>
   </figure>
 
   <figure xml:id="figimaginedland5">
-  <caption>ink</caption>
-  <image source="imagineland5.jpg" width="55%">
+  <caption></caption>
+  <image source="imaginedland5.jpg" width="55%">
   </image>
   </figure>
 

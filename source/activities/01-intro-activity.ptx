@@ -12,25 +12,25 @@
   </introduction>
 
  <figure xml:id="figbw">
-  <caption>ink</caption>
+  <caption></caption>
   <image source="bw.jpg" width="55%">
   </image>
 </figure>
 
  <figure xml:id="figbw2">
-  <caption>ink</caption>
+  <caption></caption>
   <image source="bw2.jpg" width="55%">
   </image>
 </figure>
 
 <figure xml:id="figbw3">
-  <caption>ink</caption>
+  <caption></caption>
   <image source="bw3.jpg" width="55%">
   </image>
 </figure>
 
 <figure xml:id="figbw4">
-  <caption>ink</caption>
+  <caption></caption>
   <image source="bw4.jpg" width="55%">
   </image>
 </figure>
