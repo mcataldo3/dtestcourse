@@ -9,7 +9,6 @@
       <personname>Instructor Cataldo</personname>
       <department>Department of Art, Design, &amp; Art History</department>
       <institution>Framingham State University</institution>
-      
     </author>
 
     <date>
@@ -18,8 +17,9 @@
   </bibinfo>
 
   <!-- This displays the title page information -->
-  <titlepage>
+  <titlepage>Visual Design and Visual Design Development as a communication skill
     <titlepage-items/>
+
   </titlepage>
 
 </frontmatter>
