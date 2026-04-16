@@ -147,8 +147,8 @@
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <css
         theme="denver"
-        primary-color="#386F94"
-        primary-color-dark="#5192BD"
+        primary-color="#46db9e"
+        primary-color-dark="#009463"
         provide-dark-mode="yes"
     />
 
