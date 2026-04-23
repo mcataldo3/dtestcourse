@@ -14,31 +14,31 @@
 
   <figure xml:id="figimaginedlands">
   <caption></caption>
-  <image source="imaginelands.jpg" width="55%">
+  <image source="imaginelands.jpg" width="55%" shortdescription="photo of student work">
   </image>
   </figure>
 
   <figure xml:id="figimaginedland2">
   <caption></caption>
-  <image source="imagineland2.jpg" width="55%">
+  <image source="imagineland2.jpg" width="55%" shortdescription="photo of student work">
   </image>
   </figure>
 
   <figure xml:id="figimaginedland3">
   <caption></caption>
-  <image source="imagineland3.jpg" width="55%">
+  <image source="imagineland3.jpg" width="55%" shortdescription="photo of student work">
   </image>
   </figure>
 
   <figure xml:id="figimaginedland4">
   <caption></caption>
-  <image source="imagineland4.jpg" width="55%">
+  <image source="imagineland4.jpg" width="55%" shortdescription="photo of student work">
   </image>
   </figure>
 
   <figure xml:id="figimaginedland5">
   <caption></caption>
-  <image source="imaginedland5.jpg" width="55%">
+  <image source="imaginedland5.jpg" width="55%" shortdescription="photo of student work">
   </image>
   </figure>
 

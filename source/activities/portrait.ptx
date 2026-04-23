@@ -15,43 +15,43 @@
 
 <figure xml:id="figportrait">
   <caption></caption>
-  <image source="portrait.jpg" width="55%">
+  <image source="portrait.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figportrait2">
   <caption></caption>
-  <image source="portrait2.jpg" width="55%">
+  <image source="portrait2.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figportrait3">
   <caption></caption>
-  <image source="portrait3.jpg" width="55%">
+  <image source="portrait3.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figportrait4">
   <caption></caption>
-  <image source="portrait4.jpg" width="55%">
+  <image source="portrait4.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figportrait5">
   <caption></caption>
-  <image source="portrait5.jpg" width="55%">
+  <image source="portrait5.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figportrait6">
   <caption></caption>
-  <image source="portrait6.jpg" width="55%">
+  <image source="portrait6.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figportrait7">
   <caption></caption>
-  <image source="portrait7.jpg" width="55%">
+  <image source="portrait7.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 

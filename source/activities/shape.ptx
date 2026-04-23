@@ -14,25 +14,25 @@
 
 <figure xml:id="figshapepaint">
   <caption></caption>
-  <image source="shapepaint.jpg" width="55%">
+  <image source="shapepaint.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figshapepaint2">
   <caption></caption>
-  <image source="shapepaint2.jpg" width="55%">
+  <image source="shapepaint2.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figshapepaint3">
   <caption></caption>
-  <image source="shapepaint3.jpg" width="55%">
+  <image source="shapepaint3.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
 <figure xml:id="figshapepaint4">
   <caption></caption>
-  <image source="shapepaint4.jpg" width="55%">
+  <image source="shapepaint4.jpg" width="55%" shortdescription="photo of student work">
   </image>
 </figure>
 
