@@ -20,7 +20,9 @@
 
  <figure xml:id="figbw2">
   <caption></caption>
-  <image source="bw2.jpg" width="55%" shortdescription="photo of student work">
+  <image source="bw2.jpg" width="55%">
+  <shortdescription>photo of student work
+  </shortdescription>  
   </image>
 </figure>
 
